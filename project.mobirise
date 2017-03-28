@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 140,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -34,92 +33,6 @@
         "title": "Jonathon Corrales Portfolio - Photoshop Projects"
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#d14841!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1a",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
         {
           "_tags": [
             "Theme"
@@ -823,15 +736,7 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
-        }
-      ]
-    },
-    "123D Projects.html": {
-      "settings": {
-        "order": 5,
-        "title": "Jonathon Corrales Portfolio - 123D Projects"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -885,7 +790,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -916,8 +821,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "123D Projects.html": {
+      "settings": {
+        "order": 5,
+        "title": "Jonathon Corrales Portfolio - 123D Projects"
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
@@ -1165,34 +1078,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
-        }
-      ]
-    },
-    "Premier After Effects Projects.html": {
-      "settings": {
-        "order": 6,
-        "title": "Jonathon Corrales Portfolio - Premier/After Effects Projects"
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Jonathon Corrales"
         },
         {
           "_styles": {
@@ -1247,7 +1132,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1278,7 +1163,35 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Premier After Effects Projects.html": {
+      "settings": {
+        "order": 6,
+        "title": "Jonathon Corrales Portfolio - Premier/After Effects Projects"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Jonathon Corrales"
         },
         {
           "_tags": [
@@ -1547,15 +1460,7 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        }
-      ]
-    },
-    "Office Projects.html": {
-      "settings": {
-        "order": 8,
-        "title": "Jonathon Corrales Portfolio - Office Projects"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1609,7 +1514,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1626,7 +1531,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jocosig-295x128.png",
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1640,8 +1545,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Office Projects.html": {
+      "settings": {
+        "order": 8,
+        "title": "Jonathon Corrales Portfolio - Office Projects"
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
@@ -1918,15 +1831,7 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
-        }
-      ]
-    },
-    "Character Reccomendations.html": {
-      "settings": {
-        "order": 10,
-        "title": "Jonathon Corrales Portfolio - Character Reccomendations"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1980,7 +1885,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -2011,8 +1916,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Character Reccomendations.html": {
+      "settings": {
+        "order": 10,
+        "title": "Jonathon Corrales Portfolio - Character Reccomendations"
+      },
+      "components": [
         {
           "_inherit": "testimonials1",
           "_styles": {
@@ -2216,6 +2129,92 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
         }
       ]
     },
@@ -2363,92 +2362,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#d14841!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1a",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2571,15 +2484,7 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
-        }
-      ]
-    },
-    "Contact.html": {
-      "settings": {
-        "title": "Jonathon Corrales Portfolio - Contact",
-        "order": 12
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2633,7 +2538,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -2650,7 +2555,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jocosig-295x128.png",
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2664,8 +2569,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "Jonathon Corrales Portfolio - Contact",
+        "order": 12
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title": {
@@ -2854,15 +2767,7 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        }
-      ]
-    },
-    "Illustrator Projects.html": {
-      "settings": {
-        "order": 4,
-        "title": "Jonathon Corrales Portfolio - Illustrator Projects"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2916,7 +2821,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -2947,8 +2852,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Illustrator Projects.html": {
+      "settings": {
+        "order": 4,
+        "title": "Jonathon Corrales Portfolio - Illustrator Projects"
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
@@ -3276,15 +3189,7 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
-        }
-      ]
-    },
-    "Hardware Projects.html": {
-      "settings": {
-        "order": 9,
-        "title": "Jonathon Corrales Portfolio - Hardware Projects"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3338,7 +3243,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -3369,8 +3274,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Hardware Projects.html": {
+      "settings": {
+        "order": 9,
+        "title": "Jonathon Corrales Portfolio - Hardware Projects"
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
@@ -3602,15 +3515,7 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
-        }
-      ]
-    },
-    "Lightroom Projects.html": {
-      "settings": {
-        "order": 7,
-        "title": "Jonathon Corrales Portfolio - Photography/Lightroom Projects"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -3664,7 +3569,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1a",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -3695,8 +3600,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        }
+      ]
+    },
+    "Lightroom Projects.html": {
+      "settings": {
+        "order": 7,
+        "title": "Jonathon Corrales Portfolio - Photography/Lightroom Projects"
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
@@ -4134,6 +4047,92 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
         }
       ]
     },
@@ -5132,92 +5131,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#d14841!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-3r",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -5484,6 +5397,92 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Jonathon Corrales"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-142x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
         }
       ]
     }
