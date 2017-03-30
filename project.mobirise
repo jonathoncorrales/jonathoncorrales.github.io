@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Photoshop Projects.html",
+    "currentPage": "introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 146,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -4860,7 +4861,7 @@
     },
     "index.html": {
       "settings": {
-        "title": "Intro",
+        "title": "Jonathon Corrales Portfolio",
         "meta_descr": "Site Creator Description",
         "order": 1
       },
@@ -4983,62 +4984,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#1b1b1b",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-3j",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/KUm_TDaVqnU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
-          },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -5047,16 +4992,20 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#b8312f",
+            "bgColor": "#282828",
             "showText": false
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/vidplaceholder-1400x787.jpg",
+              "width": 1400,
+              "active": true,
+              "link": "https://youtu.be/-lggrPf7uMY",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": true,
               "class": "mbr-embedded-video",
               "src": "https://youtu.be/-lggrPf7uMY",
               "autoplay": false,
