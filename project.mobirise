@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Lightroom Projects.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -5002,36 +5002,28 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
+          "_name": "video2",
+          "_anchor": "video2-41",
           "_params": {
-            "autoplay": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/-lggrPf7uMY",
-                "overlay": false,
-                "overlayOpacity": "1",
-                "overlayColor": "#000000",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#b8312f",
-            "showBullets": true
+            "showText": false
           },
-          "_anchor": "slider3-40",
-          "articleLayout": false
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://youtu.be/-lggrPf7uMY",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
