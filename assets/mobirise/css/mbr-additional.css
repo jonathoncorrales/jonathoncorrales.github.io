@@ -1217,9 +1217,6 @@ h6,
 #content7-1p P {
   color: #ffffff;
 }
-#msg-box1-6 H3 {
-  color: #ffffff;
-}
 #contacts3-3g STRONG {
   text-align: center;
 }
@@ -1283,6 +1280,13 @@ h6,
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #d14841!important;
+}
+#msg-box3-45 .mbr-section-title,
+#msg-box3-45 p {
+  color: #000;
+}
+#msg-box1-42 H3 {
+  color: #ffffff;
 }
 #contacts3-3g STRONG {
   text-align: center;

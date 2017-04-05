@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 146,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 151,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -4600,143 +4599,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box1-6",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x938.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#b8312f",
-            "inverse": false,
-            "showButtons": false,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Extended Gallery</a>",
-          "text": "",
-          "title": "Some of My Work"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jcwynpos-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jcwynpos-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jcinsert-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/jcinsert-2000x1500.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyperson-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyperson-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflowertwo-2000x1501-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflowertwo-2000x1501.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/o7-2000x1499.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#d14841",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-1t",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "contacts3",
           "_styles": {
             "STRONG": {
@@ -4984,35 +4846,178 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-41",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-45",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#282828",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/vidplaceholder-1400x787.jpg",
-              "width": 1400,
-              "active": true,
-              "link": "https://youtu.be/-lggrPf7uMY",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/-lggrPf7uMY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "video": {
-              "class": "mbr-embedded-video",
-              "src": "https://youtu.be/-lggrPf7uMY",
-              "autoplay": false,
-              "loop": false
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Introduction Video<br></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "msg-box1-42",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93817.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#b8312f",
+            "inverse": false,
+            "showButtons": false,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Extended Gallery</a>",
+          "text": "",
+          "title": "Some of My Work"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jcwynpos-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jcwynpos-2000x1500.jpg",
+                "caption": "Illustrator/Photosop",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jcinsert-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/jcinsert-2000x1500.png",
+                "caption": "Illustrator",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x6009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150013.jpg",
+                "caption": "Photoshop",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyperson-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyperson-2000x1500.jpg",
+                "caption": "Photoshop/Lightroom",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cp-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cp-2000x1500.jpg",
+                "caption": "Photoshop/Lightroom<br>",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150014.jpg",
+                "caption": "Photoshop<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59911.jpg",
+                "image": "@PROJECT_PATH@/assets/images/o7-2000x149915.jpg",
+                "caption": "Photoshop/Lightroom",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150016.jpg",
+                "caption": "Photoshop",
+                "active": false
+              }
+            ],
+            "spacing": "2",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#282828",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-43",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
