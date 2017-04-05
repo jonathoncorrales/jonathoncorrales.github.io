@@ -4868,7 +4868,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/-lggrPf7uMY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/9dHUrLYf_cU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": false,
@@ -4880,7 +4880,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=-lggrPf7uMY&amp;spfreload=10\" data-toolbar=\"-mbrBtnMove\">Introduction Video<br></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introduction Video<br></a>"
         },
         {
           "_tags": [
@@ -4898,7 +4898,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93844.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93853.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4951,8 +4951,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x60036.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x60045.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150049.jpg",
                 "caption": "Photoshop",
                 "active": false
               },
@@ -4981,8 +4981,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60037.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150041.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60046.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150050.jpg",
                 "caption": "Photoshop<br>",
                 "active": false
               },
@@ -4991,8 +4991,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59938.jpg",
-                "image": "@PROJECT_PATH@/assets/images/o7-2000x149942.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59947.jpg",
+                "image": "@PROJECT_PATH@/assets/images/o7-2000x149951.jpg",
                 "caption": "Photoshop/Lightroom",
                 "active": false
               },
@@ -5001,8 +5001,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60039.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150043.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150052.jpg",
                 "caption": "Photoshop",
                 "active": false
               }
