@@ -4880,7 +4880,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Introduction Video<br></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Introduction Video<br></a>"
         },
         {
           "_tags": [
@@ -4898,7 +4898,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93817.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93835.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4951,8 +4951,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x6009.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150013.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x60027.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150031.jpg",
                 "caption": "Photoshop",
                 "active": false
               },
@@ -4981,8 +4981,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150014.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150032.jpg",
                 "caption": "Photoshop<br>",
                 "active": false
               },
@@ -4991,8 +4991,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59911.jpg",
-                "image": "@PROJECT_PATH@/assets/images/o7-2000x149915.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59929.jpg",
+                "image": "@PROJECT_PATH@/assets/images/o7-2000x149933.jpg",
                 "caption": "Photoshop/Lightroom",
                 "active": false
               },
@@ -5001,8 +5001,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60012.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150034.jpg",
                 "caption": "Photoshop",
                 "active": false
               }
