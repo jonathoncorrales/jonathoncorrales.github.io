@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "personal.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 151,
+    "uniqCompNum": 153,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -637,110 +637,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -842,6 +738,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -979,110 +974,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -1184,6 +1075,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -1378,110 +1368,6 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1566,6 +1452,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -1732,110 +1717,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -1937,6 +1818,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -2030,110 +2010,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -2235,6 +2111,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -2385,110 +2360,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -2590,6 +2461,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -2685,110 +2655,6 @@
           "text": "Copyright (c) 2017 Jonathon Corrales"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2873,6 +2739,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -3090,110 +3055,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -3295,6 +3156,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -3416,110 +3376,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com<br>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -3621,6 +3477,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -3968,110 +3923,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
@@ -4173,6 +4024,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -4599,16 +4549,31 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
+          "_name": "footer1",
+          "_anchor": "footer1-1s",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Jonathon Corrales"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4655,7 +4620,7 @@
               "family": "et-line"
             }
           },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
           "media3": {
             "iconFont": {
               "active": true,
@@ -4665,10 +4630,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com<br>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
           "form": {
             "title": "MESSAGE",
             "action": "jcorrales@miamiartsstudio.com",
@@ -4698,26 +4663,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Jonathon Corrales"
         }
       ]
     },
@@ -4898,7 +4843,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93853.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93817.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4951,8 +4896,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x60045.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150049.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x6009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150013.jpg",
                 "caption": "Photoshop",
                 "active": false
               },
@@ -4981,8 +4926,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60046.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150050.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150014.jpg",
                 "caption": "Photoshop<br>",
                 "active": false
               },
@@ -4991,8 +4936,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59947.jpg",
-                "image": "@PROJECT_PATH@/assets/images/o7-2000x149951.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59911.jpg",
+                "image": "@PROJECT_PATH@/assets/images/o7-2000x149915.jpg",
                 "caption": "Photoshop/Lightroom",
                 "active": false
               },
@@ -5001,8 +4946,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60048.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150052.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150016.jpg",
                 "caption": "Photoshop",
                 "active": false
               }
@@ -5023,16 +4968,31 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3g",
+          "_name": "footer1",
+          "_anchor": "footer1-1s",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Jonathon Corrales"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -5079,7 +5039,7 @@
               "family": "et-line"
             }
           },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
           "media3": {
             "iconFont": {
               "active": true,
@@ -5089,10 +5049,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com<br>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
           "form": {
             "title": "MESSAGE",
             "action": "jcorrales@miamiartsstudio.com",
@@ -5122,33 +5082,14 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Jonathon Corrales"
         }
       ]
     },
     "personal.html": {
       "settings": {
         "title": "Personal Projects",
-        "meta_descr": "Web Page Generator Description"
+        "meta_descr": "Web Page Generator Description",
+        "order": 13
       },
       "components": [
         {
@@ -5299,110 +5240,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-3s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-773-9291",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14739 SW 9 Terrace Miami, FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">j</a>corrales@miamiartsstudio.com<br>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jcorrales@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-3t",
           "_params": {
@@ -5504,6 +5341,105 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box1-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS/GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop Projects.html\">Photoshop Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Projects.html\">Illustrator Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\" Hardware Projects.html\">Hardware Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lightroom Projects.html\">Photography/Lightroom Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premier After Effects Projects.html\">Premier/After Effects Projects<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Projects.html\">123D Projects<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jonathoncorrales.github.io/images/discuss6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Credentials.html\">Credentials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Character Reccomendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\" aria-expanded=\"false\">YOUTUBE &nbsp;CHANNEL&nbsp;<span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jcsig-1-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "305-773-9291",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "\t14739 SW 9 Terrace Miami, FL 33194",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tjcorrales@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\">Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCDOmif8Zu8IEKuhG8_AVVdA\"></a></li><li><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\">Introduction Film</a><a href=\"https://www.youtube.com/watch?v=9dHUrLYf_cU&amp;feature=youtu.be\"></a></li><li><a href=\"index.html\">Landing Page</a><a href=\"index.html\"></a></li><li><a href=\"introduction.html\">Introduction Page</a><a href=\"introduction.html\"></a></li><li><a href=\"Credentials.html\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: jcorrales@miamiartsstudio.com<br>Phone: 305-773-9291<br><br><strong>Address</strong><br>14739 SW 9 Terrace <br>Miami, FL 33194<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jcorrales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     }
