@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 154,
+    "uniqCompNum": 155,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1358,8 +1358,8 @@
               {
                 "tags": "Beautiful",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/qrkcQaWwOi8",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-05-08-23-46.jpg",
+                "videoUrl": "https://youtu.be/8RVlVBv1xdc",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-06-08-31-55.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
                 "caption": "Type caption here",
@@ -4873,7 +4873,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/qrkcQaWwOi8\" data-toolbar=\"-mbrBtnMove\">Imagine Dragons - Believer</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/8RVlVBv1xdc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons - Believer</a>"
         },
         {
           "_tags": [
@@ -4891,7 +4891,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x93817.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/introbg-2000x938.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4911,13 +4911,14 @@
           "title": "Some of My Work"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "images": [
               {
                 "tags": "Awesome",
@@ -4926,7 +4927,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jcwynpos-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jcwynpos-2000x1500.jpg",
-                "caption": "Illustrator/Photosop",
+                "caption": "Photoshop/Illustrator",
                 "active": false
               },
               {
@@ -4944,8 +4945,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x6009.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x150013.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower-2000x1500.jpg",
                 "caption": "Photoshop",
                 "active": false
               },
@@ -4956,8 +4957,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jclowpolyperson-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jclowpolyperson-2000x1500.jpg",
-                "caption": "Photoshop/Lightroom",
-                "active": false
+                "caption": "Photoshop/Illustrator",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -4966,26 +4967,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cp-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cp-2000x1500.jpg",
-                "caption": "Photoshop/Lightroom<br>",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x60010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x150014.jpg",
-                "caption": "Photoshop<br>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x59911.jpg",
-                "image": "@PROJECT_PATH@/assets/images/o7-2000x149915.jpg",
                 "caption": "Photoshop/Lightroom",
                 "active": false
               },
@@ -4994,21 +4975,41 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x60012.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x150016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jclowpolyflower3-2000x1500.jpg",
+                "caption": "Photoshop",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/o7-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/o7-2000x1499.jpg",
+                "caption": "Photoshop/Lightroom",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lowpolysammy-1-2000x1500.jpg",
                 "caption": "Photoshop",
                 "active": false
               }
             ],
-            "spacing": "2",
+            "spacing": 1,
             "showText": true,
             "filter": false,
             "bgColor": "#282828",
-            "filterBgColor": false,
+            "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-43",
+          "_anchor": "gallery3-4a",
           "articleLayout": false,
           "allItem": "All"
         },
