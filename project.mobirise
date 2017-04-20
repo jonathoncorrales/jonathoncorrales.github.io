@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Premier After Effects Projects.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1360,6 +1360,16 @@
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/8RVlVBv1xdc",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-06-08-31-55.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/4S6-1-nH-0U",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-20-08-52-53.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
                 "caption": "Type caption here",
@@ -4861,7 +4871,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/8RVlVBv1xdc?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/4S6-1-nH-0U?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": false,
@@ -4873,7 +4883,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/8RVlVBv1xdc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons - Believer</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/4S6-1-nH-0U\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons - Believer</a>"
         },
         {
           "_tags": [
