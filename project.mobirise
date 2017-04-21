@@ -1369,7 +1369,7 @@
                 "tags": "Beautiful",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/dY-yQZ4GXLQ",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-20-23-55-15.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
                 "caption": "Type caption here",
