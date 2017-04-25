@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Premier After Effects Projects.html",
+    "currentPage": "personal.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 155,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -293,7 +292,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cp2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cp2-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -394,6 +393,16 @@
                 "image": "@PROJECT_PATH@/assets/images/jcwall-2000x1499.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cp2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cp2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -428,7 +437,7 @@
             "bgColor": "#2969b0",
             "showMeta": true
           },
-          "title": "Current Assignment - Masterpiece Reproduction Snapshots&nbsp;",
+          "title": "Masterpiece Reproduction Snapshots&nbsp;",
           "meta": ""
         },
         {
@@ -1368,8 +1377,8 @@
               {
                 "tags": "Beautiful",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/dY-yQZ4GXLQ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-20-23-55-15.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=Y1_zpGaq_I8",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-24-22-14-10.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
                 "caption": "Type caption here",
@@ -3007,7 +3016,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jcgooglebanner-2000x1500-800x600.png",
                 "image": "@PROJECT_PATH@/assets/images/jcgooglebanner-2000x1500.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -3058,6 +3067,16 @@
                 "image": "@PROJECT_PATH@/assets/images/jcblueprint-2000x1500.png",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/minimavericks-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/minimavericks-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -3855,7 +3874,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cp2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cp2-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -3924,6 +3943,46 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/organic-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/organic-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t1-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t3-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t4-2000x1501-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t4-2000x1501.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -4871,7 +4930,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/dY-yQZ4GXLQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/Y1_zpGaq_I8?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": false,
@@ -4883,7 +4942,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/dY-yQZ4GXLQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay - A Thousand Million Reasons</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=Y1_zpGaq_I8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay - A Thousand Million Reasons</a>"
         },
         {
           "_tags": [
