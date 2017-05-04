@@ -1378,8 +1378,8 @@
               {
                 "tags": "Beautiful",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/oqnv2Aoancs",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-21-39-47.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=s9d4FePWMqU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-03-21-30-38.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
                 "caption": "Type caption here",
@@ -4931,7 +4931,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/oqnv2Aoancs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/s9d4FePWMqU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": false,
@@ -4943,7 +4943,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/oqnv2Aoancs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay - A Thousand Million Reasons</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=s9d4FePWMqU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay - A Thousand Million Reasons</a>"
         },
         {
           "_tags": [
