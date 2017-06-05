@@ -427,6 +427,10 @@ h6,
 #header3-3o H3 {
   color: #ffffff;
 }
+#slider2-4f .mbr-section-title,
+#slider2-4f .mbr-section-lead {
+  color: #fff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1252,8 +1256,8 @@ h6,
 #msg-box3-45 p {
   color: #000;
 }
-#msg-box3-49 .mbr-section-title,
-#msg-box3-49 p {
+#msg-box3-4d .mbr-section-title,
+#msg-box3-4d p {
   color: #000;
 }
 #msg-box1-42 H3 {
